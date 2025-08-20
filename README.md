@@ -1,24 +1,16 @@
-# Sistem-Perpustakaan-Sekolah
-Nama Project ini adalah : CuyPerpus
+#CupsLibs - Sistem Peminjaman Buku Perpustakaan
+CuyPerpus adalah aplikasi perpustakaan digital berbasis web yang dirancang untuk mempermudah proses peminjaman buku. Pengguna dapat dengan mudah melihat ketersediaan buku dan mengelola peminjaman mereka, sementara sistem secara otomatis mengatur batas waktu dan denda keterlambatan.
 
-CuyPerpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
+✨ Fitur Utama
+Katalog Buku: Pengguna dapat melihat daftar lengkap buku yang tersedia di perpustakaan.
+Sistem Peminjaman: Fitur untuk meminjam buku yang diinginkan.
+Batas Waktu Pengembalian: Setiap peminjaman memiliki batas waktu yang jelas.
+Sistem Denda Otomatis: Denda akan diterapkan secara otomatis jika buku dikembalikan melewati batas waktu yang telah ditentukan.
 
-website ini dibuat menggunakan framework bootstrap, javascript, php dan database mysql.
+🛠️ Teknologi
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: PHP
+Database: MySQL
 
-Fitur fitur yang terdapat didalam aplikasi ini : 
-1. Memiliki 2 akses login, admin dan user/siswa .
-2. Akses sebagai admin mendapatkan fasilitas berupa : 
-  - insert, update dan delete data buku
-  - mencari buku berdasarkan judul dan kategori
-  - mengelola data siswa yang daftar pada aplikasi
-  - mengelola setiap peminjaman buku
-  - mengelola setiap pengembalian buku
-  - menerapkan denda jika siswa/user terlambat mengembalikan buku sesuai jadwal yang ditentukan.
-3. Akses sebagai siswa mendapatkan fasilitas berupa : 
-  - dapat melihat isi seluruh buku yang ada dalam perpustakaan dan terdapat fitur filter buku berdasarkan kategori.
-  - meminjam buku 
-  - mengembalikan buku
-  - membayar denda
-
-
-Created by Kelompok 2 - Mahasiswa Universitas Gunadarma
+👥 Kolaborasi
+Proyek ini dikembangkan oleh Muhammad Fattah & Muhammad Arsalan
