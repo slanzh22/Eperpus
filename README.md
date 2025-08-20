@@ -1,5 +1,5 @@
 #CupsLibs - Sistem Peminjaman Buku Perpustakaan
-CuyPerpus adalah aplikasi perpustakaan digital berbasis web yang dirancang untuk mempermudah proses peminjaman buku. Pengguna dapat dengan mudah melihat ketersediaan buku dan mengelola peminjaman mereka, sementara sistem secara otomatis mengatur batas waktu dan denda keterlambatan.
+CupsLibs adalah sistem peminjaman buku perpustakaan berbasis web yang dirancang untuk mempermudah proses peminjaman buku. Pengguna dapat dengan mudah melihat ketersediaan buku dan mengelola peminjaman mereka, sementara sistem secara otomatis mengatur batas waktu dan denda keterlambatan.
 
 ✨ Fitur Utama
 Katalog Buku: Pengguna dapat melihat daftar lengkap buku yang tersedia di perpustakaan.
