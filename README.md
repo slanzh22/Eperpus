@@ -13,7 +13,7 @@ Backend: PHP
 Database: MySQL
 
 👥 Kolaborasi
-Proyek ini dikembangkan oleh Muhammad Fattah & Muhammad Arsalan
+Proyek ini dikembangkan oleh Muhammad Arsalan
 
  🔗Link Repository
 Akses project lengkap di GitHub:
