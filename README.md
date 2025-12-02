@@ -14,3 +14,7 @@ Database: MySQL
 
 👥 Kolaborasi
 Proyek ini dikembangkan oleh Muhammad Fattah & Muhammad Arsalan
+
+ 🔗Link Repository
+Akses project lengkap di GitHub:
+https://github.com/slanzh22/Eperpus.git
